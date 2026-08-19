@@ -1,0 +1,8 @@
+{
+  "name": "expense-tracker-mern",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plugin-ready expense tracker baseline",
+  "scripts": {"start": "node server.js", "test": "node --test test/*.test.js"},
+  "engines": {"node": ">=20"}
+}
